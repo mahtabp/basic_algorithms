@@ -1,5 +1,5 @@
 ﻿using System;
-namespace ReadifyCallenge.Models
+namespace ReadifyChallenge.Models
 {
     // Ref: https://www.cut-the-knot.org/triangle/Triangles.shtml
     /// <summary>

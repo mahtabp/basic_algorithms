@@ -16,6 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ReadifyTest\ReadifyCallenge.csproj" />
+    <ProjectReference Include="..\ReadifyChallenge\ReadifyChallenge.csproj" />
   </ItemGroup>
 </Project>

@@ -7,7 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Serilog;
 
-namespace ReadifyCallenge
+namespace ReadifyChallenge
 {
     public class Program
     {

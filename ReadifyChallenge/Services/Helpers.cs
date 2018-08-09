@@ -1,5 +1,5 @@
 ﻿using System;
-namespace ReadifyCallenge.Services
+namespace ReadifyChallenge.Services
 {
     public static class Helpers
     {

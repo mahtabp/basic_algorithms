@@ -1,5 +1,5 @@
 ﻿using System;
-namespace ReadifyCallenge.Models
+namespace ReadifyChallenge.Models
 {
     public class Triangle
     {

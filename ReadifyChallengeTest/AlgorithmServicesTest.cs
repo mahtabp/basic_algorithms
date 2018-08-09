@@ -1,5 +1,5 @@
 ﻿using System;
-using ReadifyCallenge.Services;
+using ReadifyChallenge.Services;
 using NUnit.Framework;
 
 namespace ReadifyChallengeTests

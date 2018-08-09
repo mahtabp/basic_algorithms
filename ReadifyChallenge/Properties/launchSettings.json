@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "ReadifyCallenge": {
+    "ReadifyChallenge": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger/index.html",

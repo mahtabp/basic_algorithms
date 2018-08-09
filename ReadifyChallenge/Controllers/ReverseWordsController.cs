@@ -1,10 +1,10 @@
 ﻿using System;
 using Microsoft.AspNetCore.Mvc;
-using ReadifyCallenge.Services;
+using ReadifyChallenge.Services;
 using Swashbuckle.AspNetCore.Annotations;
 using Serilog;
 
-namespace ReadifyCallenge.Controllers
+namespace ReadifyChallenge.Controllers
 {
     [Route("api/[controller]")]
     public class ReverseWordsController : ControllerBase

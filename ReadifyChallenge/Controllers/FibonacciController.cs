@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using ReadifyCallenge.Services;
+using ReadifyChallenge.Services;
 using Swashbuckle.AspNetCore.Annotations;
 using System.ComponentModel.DataAnnotations;
 using Serilog;
 
-namespace ReadifyCallenge.Controllers
+namespace ReadifyChallenge.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

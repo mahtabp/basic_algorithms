@@ -1,7 +1,7 @@
 ﻿using System;
-using ReadifyCallenge.Models;
+using ReadifyChallenge.Models;
 
-namespace ReadifyCallenge.Services
+namespace ReadifyChallenge.Services
 {
     public interface ITriangleService
     {

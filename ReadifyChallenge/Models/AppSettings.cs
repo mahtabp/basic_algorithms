@@ -1,5 +1,5 @@
 ﻿
-namespace ReadifyCallenge.Models
+namespace ReadifyChallenge.Models
 {
     public class AppSettings
     {

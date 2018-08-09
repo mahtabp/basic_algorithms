@@ -4,11 +4,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
-using ReadifyCallenge.Models;
+using ReadifyChallenge.Models;
 using Swashbuckle.AspNetCore.Annotations;
 using Serilog;
 
-namespace ReadifyCallenge.Controllers
+namespace ReadifyChallenge.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

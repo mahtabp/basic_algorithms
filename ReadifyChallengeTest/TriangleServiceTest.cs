@@ -1,7 +1,7 @@
 ﻿using System;
 using NUnit.Framework;
-using ReadifyCallenge.Services;
-using ReadifyCallenge.Models;
+using ReadifyChallenge.Services;
+using ReadifyChallenge.Models;
 
 namespace ReadifyChallengeTest
 {
