@@ -1,11 +1,11 @@
 ﻿using System;
 using Microsoft.AspNetCore.Mvc;
 using Swashbuckle.AspNetCore.Annotations;
-using ReadifyChallenge.Services;
+using BaseAlgorithms.Services;
 using System.ComponentModel.DataAnnotations;
 using Serilog;
 
-namespace ReadifyChallenge.Controllers
+namespace BaseAlgorithms.Controllers
 {
     [Route("api/[controller]")]
     public class TriangleTypeController : ControllerBase

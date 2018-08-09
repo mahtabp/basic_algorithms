@@ -1,7 +1,7 @@
 ﻿using System;
-using ReadifyChallenge.Models;
+using BaseAlgorithms.Models;
 
-namespace ReadifyChallenge.Services
+namespace BaseAlgorithms.Services
 {
     public interface ITriangleService
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ReadifyChallenge.Services
+namespace BaseAlgorithms.Services
 {
     public interface IAlgorithmServices
     {

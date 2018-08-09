@@ -1,5 +1,5 @@
 ﻿
-namespace ReadifyChallenge.Models
+namespace BaseAlgorithms.Models
 {
     public class AppSettings
     {

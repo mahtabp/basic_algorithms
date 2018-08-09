@@ -16,6 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ReadifyChallenge\ReadifyChallenge.csproj" />
+    <ProjectReference Include="..\BaseAlgorithms\BaseAlgorithms.csproj" />
   </ItemGroup>
 </Project>

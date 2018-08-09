@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "ReadifyChallenge": {
+    "BaseAlgorithms": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger/index.html",

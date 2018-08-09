@@ -1,9 +1,9 @@
 ﻿using System;
 using NUnit.Framework;
-using ReadifyChallenge.Services;
-using ReadifyChallenge.Models;
+using BaseAlgorithms.Services;
+using BaseAlgorithms.Models;
 
-namespace ReadifyChallengeTest
+namespace BaseAlgorithmsTest
 {
     [TestFixture]
     public class TriangleServiceTest

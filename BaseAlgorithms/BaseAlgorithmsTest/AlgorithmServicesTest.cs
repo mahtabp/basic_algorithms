@@ -1,8 +1,8 @@
 ﻿using System;
-using ReadifyChallenge.Services;
+using BaseAlgorithms.Services;
 using NUnit.Framework;
 
-namespace ReadifyChallengeTests
+namespace BaseAlgorithmsTests
 {
     [TestFixture]
     public class AlgorithmsServicesTest

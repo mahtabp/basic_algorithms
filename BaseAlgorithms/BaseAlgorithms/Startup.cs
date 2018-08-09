@@ -7,10 +7,10 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using ReadifyChallenge.Services;
+using BaseAlgorithms.Services;
 using Swashbuckle.AspNetCore.Swagger;
 
-namespace ReadifyChallenge
+namespace BaseAlgorithms
 {
     public class Startup
     {
